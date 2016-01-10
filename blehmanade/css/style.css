@@ -1,0 +1,5 @@
+.line{
+  fill:none;
+  stroke:url(#color-gradient);
+  stroke-width:3px;
+}
